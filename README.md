@@ -4,10 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=KAILASH&fontSize=95&animation=fadeIn&fontColor=F8FAFC&stroke=38BDF8&strokeWidth=2&color=0:0F172A,25:111827,50:1E293B,75:334155,100:475569"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=350&text=KAILASH&fontSize=100&fontColor=FFFFFF&animation=fadeIn&color=0:38BDF8,50:0EA5E9,100:0284C7"/>
 
 </div>
-
 ---
 
 <!-- ===================================================== -->

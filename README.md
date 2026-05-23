@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0F172A,50:111827,75:1E293B,100:020617&text=KAILASH&fontSize=80&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20|%20RAG%20Developer%20|%20Open%20Source%20Builder&descAlignY=56&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:111827,75:1E293B,100:020617&text=KAILASH&fontSize=82&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20|%20RAG%20Developer%20|%20Open%20Source%20Builder&descAlignY=56&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Feel+Alive;Creating+Advanced+RAG+Pipelines;Developing+Multi-Agent+Applications;Automation+Engineer+%7C+LLM+Developer;Open+Source+AI+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1000&lines=AI+Engineer;Multi-Agent+AI+Developer;RAG+Systems+Architect;Automation+Engineer;Open+Source+Builder" />
 </p>
 
 <div align="center">
@@ -17,13 +17,14 @@
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q0cGR2OW9sMHB5YjNnN3h2cGx6OG16eTJhNGRzMXVrNnN2djlwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 👨‍💻 About Me
 
 ```yaml
 Name: Kailash
 Role: AI Engineer
+
 Specialization:
   - Multi-Agent AI Systems
   - RAG Pipelines
@@ -48,6 +49,10 @@ Fun Fact:
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-8a600850-0b7d-4122-bdf1-24830d3c7a68.gif">
+</p>
+
 # ⚡ Tech Arsenal
 
 <p align="center">
@@ -71,10 +76,18 @@ Fun Fact:
 
 ---
 
-# 🎮 Contribution Snake Game
+# 🎮 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 🌌 Matrix Digital Rain
+
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/213911167-25d3db73-efe5-4bdb-a395-4d88d7987e7a.gif">
 </p>
 
 ---
@@ -91,7 +104,7 @@ Fun Fact:
 
 ---
 
-# 🌌 GitHub Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailash0001&custom_title=Kailash's%20GitHub%20Activity&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%"/>
@@ -115,7 +128,7 @@ Fun Fact:
 
 ---
 
-# 📈 Coding Stats
+# 💻 Coding Statistics
 
 <div align="center">
 
@@ -127,7 +140,15 @@ Fun Fact:
 
 ---
 
-# 💻 Terminal Animation
+# ⚔️ Cyber Terminal
+
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750233-fc10a0d4-8f3f-4f85-9d7f-6f0a4b4b4d6b.gif">
+</p>
+
+---
+
+# 😂 Dev Joke Generator
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>

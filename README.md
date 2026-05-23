@@ -1,37 +1,45 @@
-<!-- ========================================================= -->
-<!--                   ULTRA AESTHETIC README                  -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                ULTRA AESTHETIC HEADER                 -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=KAILASH&fontSize=85&color=0:F8FAFC,25:E2E8F0,50:CBD5E1,75:94A3B8,100:64748B&stroke=B91C1C&fontColor=0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=KAILASH&fontSize=95&animation=fadeIn&fontColor=F8FAFC&stroke=38BDF8&strokeWidth=2&color=0:0F172A,25:111827,50:1E293B,75:334155,100:475569"/>
 
 </div>
 
 ---
 
+<!-- ===================================================== -->
+<!--                    TYPING EFFECT                      -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=475569&center=true&vCenter=true&width=1200&lines=AI+Engineer;RAG+Architect;Agentic+AI+Developer;Building+Futuristic+Systems;Open+Source+Creator;Crafting+Digital+Experiences"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=AI+Engineer;RAG+Architect;Agentic+AI+Developer;Building+Futuristic+Systems;Open+Source+Creator;Crafting+Digital+Experiences"/>
 
 </div>
 
 ---
 
+<!-- ===================================================== -->
+<!--                    SOCIALS                            -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F8FAFC?style=for-the-badge&logo=firefox&logoColor=0F172A)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0F172A)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-F8FAFC?style=for-the-badge&logo=x&logoColor=0F172A)](https://twitter.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-F8FAFC?style=for-the-badge&logo=gmail&logoColor=0F172A)](mailto:yourmail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=38BDF8)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8)](https://twitter.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:yourmail@gmail.com)
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                        HERO SECTION                       -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                    ABOUT ME                           -->
+<!-- ===================================================== -->
 
 <table>
 <tr>
@@ -56,9 +64,9 @@ class Kailash:
         ]
 
         self.currently_building = [
-            "Agentic AI Applications",
             "Advanced RAG Pipelines",
-            "AI SaaS Systems"
+            "AI SaaS Systems",
+            "Autonomous AI Agents"
         ]
 
         self.learning = [
@@ -75,7 +83,7 @@ class Kailash:
 
 <td width="42%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -83,9 +91,19 @@ class Kailash:
 
 ---
 
-<!-- ========================================================= -->
-<!--                     TECH STACK                            -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                  CYBER DIVIDER                        -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750678-f9c3c0b7-0b29-4ff2-9d9d-4f5f2df0a6c5.gif">
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -97,9 +115,9 @@ class Kailash:
 
 ---
 
-<!-- ========================================================= -->
-<!--                     PACMAN GAME                           -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                  CONTRIBUTION GAME                    -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -111,83 +129,83 @@ class Kailash:
 
 ---
 
-<!-- ========================================================= -->
-<!--                       SNAKE                               -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                    SNAKE GAME                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 # ✦ Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       STATS                               -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                  GITHUB STATS                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 # ✦ GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kailash0001&show_icons=true&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0F172A&icon_color=334155&text_color=334155"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kailash0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash0001&theme=default&hide_border=true&background=F8FAFC&ring=475569&fire=475569&currStreakLabel=475569"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash0001&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     ACTIVITY GRAPH                        -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                 ACTIVITY GRAPH                        -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 # ✦ Contribution Matrix
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kailash0001&bg_color=F8FAFC&color=0F172A&line=475569&point=64748B&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kailash0001&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       LANGUAGES                           -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                  MOST USED LANGS                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 # ✦ Most Used Languages
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash0001&layout=compact&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=334155"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailash0001&theme=default"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailash0001&theme=tokyonight"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       TROPHIES                            -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                   ACHIEVEMENTS                        -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 # ✦ Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=kailash0001&theme=flat&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kailash0001&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     AI TREE                               -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                  SPECIALIZATION TREE                  -->
+<!-- ===================================================== -->
 
 # ✦ AI Specialization Tree
 
@@ -218,66 +236,66 @@ Artificial Intelligence
 
 ---
 
-<!-- ========================================================= -->
-<!--                   MINIMAL TERMINAL                        -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                     TERMINAL                          -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 # ✦ Terminal
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5d-9f07-9d7f97f1c5d0.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749726-d36b1f98-52d1-4f5f-b5c8-7d58f6ec4c7d.gif"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     CONNECT                               -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                    CONNECT                            -->
+<!-- ===================================================== -->
 
 <div align="center">
 
 # ✦ Connect
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F8FAFC?style=for-the-badge&logo=gmail&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 <a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="https://twitter.com/">
-<img src="https://img.shields.io/badge/Twitter-F8FAFC?style=for-the-badge&logo=x&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/kailash0001">
-<img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    VISITOR COUNT                          -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                  VISITOR COUNT                        -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kailash0001&label=PROFILE+VIEWS&color=64748B&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kailash0001&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                        FOOTER                             -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                      FOOTER                           -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:F8FAFC,25:E2E8F0,50:CBD5E1,75:94A3B8,100:64748B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:111827,50:1E293B,75:334155,100:475569"/>
 
 </div>

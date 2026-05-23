@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,20:302b63,40:24243e,60:0f3460,80:1b1b3a,100:00F7FF&text=KAILASH&fontSize=85&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20RAG%20Architect%20•%20Automation%20Builder&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0f0c29,20:302b63,40:24243e,60:0f3460,80:1b1b3a,100:00F7FF&text=KAILASH&fontSize=90&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20RAG%20Architect%20•%20Automation%20Builder&descAlignY=60&descSize=22"/>
 
 <br>
 
@@ -20,6 +20,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=kailash0001&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
+<img src="https://img.shields.io/github/followers/kailash0001?style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/kailash0001?style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
+
 </div>
 
 ---
@@ -32,11 +36,31 @@
 
 ---
 
+# 🎮 Contribution Snake Game
+
 <div align="center">
 
-## 🎮 GitHub Contribution Game
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🕹️ Pacman Contribution Game
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahul-jha98/README-generator/main/src/pacman.svg?sanitize=true" width="100%"/>
+
+</div>
+
+---
+
+# 🌌 3D Matrix Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo/terminal.gif" width="100%"/>
 
 </div>
 
@@ -66,3 +90,9 @@ Role: AI Engineer
 Focus: Agentic AI + RAG Systems
 Learning: LangGraph + AI Infrastructure
 Location: India
+Experience:
+  - AI Automation
+  - Multi-Agent AI Systems
+  - LLM Applications
+  - Vector Databases
+  - AI SaaS Products

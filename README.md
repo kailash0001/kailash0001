@@ -1,268 +1,283 @@
-<!-- ========================= HEADER ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:020617,15:071426,35:0F172A,55:111827,75:1E293B,100:020617&text=KAILASH&fontSize=90&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20RAG%20Architect%20•%20Agentic%20AI%20Developer&descAlignY=58&descAlign=50"/>
-</p>
-
-<!-- ========================= TERMINAL INTRO ========================= -->
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1200&lines=Building+Futuristic+AI+Systems;Developing+Autonomous+AI+Agents;Engineering+Advanced+RAG+Pipelines;Designing+AI+Automation+Architectures;Open+Source+AI+Developer;Welcome+To+My+Cyber+Universe" />
-</p>
-
-<!-- ========================= SOCIALS ========================= -->
+<!-- ========================================================= -->
+<!--                   ULTRA AESTHETIC README                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A0F1C?style=for-the-badge&logo=firefox&logoColor=38BDF8)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/TWITTER-0A0F1C?style=for-the-badge&logo=x&logoColor=38BDF8)](https://twitter.com/)
-[![Gmail](https://img.shields.io/badge/GMAIL-0A0F1C?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:yourmail@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=KAILASH&fontSize=85&color=0:F8FAFC,25:E2E8F0,50:CBD5E1,75:94A3B8,100:64748B&stroke=B91C1C&fontColor=0F172A"/>
 
 </div>
 
 ---
 
-<!-- ========================= MATRIX LINE ========================= -->
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/213911167-25d3db73-efe5-4bdb-a395-4d88d7987e7a.gif">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=475569&center=true&vCenter=true&width=1200&lines=AI+Engineer;RAG+Architect;Agentic+AI+Developer;Building+Futuristic+Systems;Open+Source+Creator;Crafting+Digital+Experiences"/>
+
+</div>
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
+<div align="center">
 
-<img align="right" width="430" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q0cGR2OW9sMHB5YjNnN3h2cGx6OG16eTJhNGRzMXVrNnN2djlwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+[![Portfolio](https://img.shields.io/badge/Portfolio-F8FAFC?style=for-the-badge&logo=firefox&logoColor=0F172A)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0F172A)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-F8FAFC?style=for-the-badge&logo=x&logoColor=0F172A)](https://twitter.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-F8FAFC?style=for-the-badge&logo=gmail&logoColor=0F172A)](mailto:yourmail@gmail.com)
 
-# 👨‍💻 SYSTEM.INFO
+</div>
 
-```yaml
-class Kailash():
+---
+
+<!-- ========================================================= -->
+<!--                        HERO SECTION                       -->
+<!-- ========================================================= -->
+
+<table>
+<tr>
+<td width="58%">
+
+# ✦ About Me
+
+```python
+class Kailash:
 
     def __init__(self):
-        self.name = "Kailash"
+
         self.role = "AI Engineer"
-        self.specialization = [
-            "RAG Pipelines",
-            "Agentic AI",
-            "LLM Engineering",
+
+        self.focus = [
+            "Retrieval-Augmented Generation",
+            "Multi-Agent Systems",
             "AI Automation",
+            "LLM Engineering",
             "Semantic Search",
-            "Multi-Agent Systems"
+            "Open Source AI"
         ]
 
         self.currently_building = [
-            "Advanced RAG Architectures",
-            "AI SaaS Platforms",
-            "Autonomous Agents",
-            "AI Automation Workflows"
+            "Agentic AI Applications",
+            "Advanced RAG Pipelines",
+            "AI SaaS Systems"
         ]
 
         self.learning = [
             "LangGraph",
-            "Distributed AI Systems",
-            "Memory-Augmented AI",
-            "Agent Orchestration"
+            "Distributed AI",
+            "Memory Systems"
         ]
 
-        self.life_philosophy = \
-        "Build systems that feel alive."
+    def philosophy(self):
+        return "Build systems that feel alive."
 ```
 
+</td>
+
+<td width="42%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-<!-- ========================= CYBER DIVIDER ========================= -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-0d0b9f2d-0cb4-4d5f-bf7c-5bdbf6d54b0a.gif">
-</p>
-
----
-
-# ⚡ TECH STACK.EXE
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,react,nextjs,nodejs,fastapi,flask,mongodb,postgres,mysql,docker,kubernetes,git,github,linux,bash,vscode,tensorflow,pytorch,redis&perline=11"/>
+# ✦ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,react,nextjs,nodejs,fastapi,flask,mongodb,postgres,mysql,docker,kubernetes,git,github,linux,bash,vscode,pytorch,tensorflow,redis&perline=11"/>
 
 </div>
 
 ---
 
-<!-- ========================= PACMAN GAME ========================= -->
-
-# 🎮 PACMAN CONTRIBUTION GAME
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg">
-</p>
-
----
-
-<!-- ========================= SNAKE ========================= -->
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-<!-- ========================= TERMINAL ========================= -->
-
-# 💻 LIVE TERMINAL
-
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750233-fc10a0d4-8f3f-4f85-9d7f-6f0a4b4b4d6b.gif">
-</p>
-
----
-
-<!-- ========================= STATS ========================= -->
-
-# 📊 GITHUB ANALYTICS
+<!-- ========================================================= -->
+<!--                     PACMAN GAME                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kailash0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF"/>
+# ✦ Contribution Game
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash0001&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg"/>
 
 </div>
 
 ---
 
-<!-- ========================= ACTIVITY GRAPH ========================= -->
+<!-- ========================================================= -->
+<!--                       SNAKE                               -->
+<!-- ========================================================= -->
 
-# 📈 CONTRIBUTION MATRIX
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kailash0001&custom_title=KAILASH%20SYSTEM%20ACTIVITY&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
-</p>
+# ✦ Contribution Snake
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
-<!-- ========================= TROPHIES ========================= -->
-
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kailash0001&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+</div>
 
 ---
 
-<!-- ========================= AI SECTION ========================= -->
+<!-- ========================================================= -->
+<!--                       STATS                               -->
+<!-- ========================================================= -->
 
-# 🧠 AI SPECIALIZATION TREE
+<div align="center">
+
+# ✦ GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kailash0001&show_icons=true&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0F172A&icon_color=334155&text_color=334155"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash0001&theme=default&hide_border=true&background=F8FAFC&ring=475569&fire=475569&currStreakLabel=475569"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     ACTIVITY GRAPH                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ✦ Contribution Matrix
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kailash0001&bg_color=F8FAFC&color=0F172A&line=475569&point=64748B&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       LANGUAGES                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ✦ Most Used Languages
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash0001&layout=compact&theme=default&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=334155"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailash0001&theme=default"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       TROPHIES                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ✦ Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=kailash0001&theme=flat&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     AI TREE                               -->
+<!-- ========================================================= -->
+
+# ✦ AI Specialization Tree
 
 ```text
-🧠 Artificial Intelligence
+Artificial Intelligence
 │
-├── 🤖 LLM Engineering
+├── LLM Engineering
 │   ├── Prompt Engineering
 │   ├── Fine Tuning
 │   └── Context Management
 │
-├── 🔍 Retrieval-Augmented Generation
+├── Retrieval-Augmented Generation
 │   ├── Vector Databases
 │   ├── Semantic Search
 │   ├── Embeddings
 │   └── Hybrid Retrieval
 │
-├── ⚙️ AI Automation
-│   ├── Workflow Systems
+├── AI Automation
 │   ├── Autonomous Agents
-│   └── AI SaaS Products
+│   ├── Workflow Systems
+│   └── AI SaaS Platforms
 │
-└── 🛰️ Multi-Agent Systems
+└── Multi-Agent Systems
     ├── Agent Collaboration
-    ├── Tool Calling
-    └── Memory Systems
+    ├── Memory Systems
+    └── Tool Calling
 ```
 
 ---
 
-<!-- ========================= 3D GRAPH ========================= -->
-
-# 🌌 3D PROFILE MATRIX
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kailash0001&theme=github_dark"/>
-</p>
-
----
-
-<!-- ========================= DEV ANIMATION ========================= -->
-
-# ⚔️ CYBERPUNK MODE
-
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212897597-03d3e5af-096f-43fd-8b48-2a03c6b6f5a4.gif">
-</p>
-
----
-
-<!-- ========================= QUOTE ========================= -->
-
-# ☕ DAILY SYSTEM QUOTE
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<!-- ========================= JOKES ========================= -->
-
-# 😂 RANDOM DEV JOKE
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"/>
-</p>
-
----
-
-<!-- ========================= VISITORS ========================= -->
-
-# 👁️ VISITOR TRACKER
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kailash0001&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
-</p>
-
----
-
-<!-- ========================= CONNECT ========================= -->
-
-# 🌐 CONNECT WITH ME
+<!-- ========================================================= -->
+<!--                   MINIMAL TERMINAL                        -->
+<!-- ========================================================= -->
 
 <div align="center">
 
+# ✦ Terminal
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5d-9f07-9d7f97f1c5d0.gif"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     CONNECT                               -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ✦ Connect
+
 <a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Gmail-F8FAFC?style=for-the-badge&logo=gmail&logoColor=0F172A"/>
 </a>
 
 <a href="https://linkedin.com/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=0F172A"/>
 </a>
 
 <a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/TWITTER-0D1117?style=for-the-badge&logo=x&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Twitter-F8FAFC?style=for-the-badge&logo=x&logoColor=0F172A"/>
 </a>
 
 <a href="https://github.com/kailash0001">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=0F172A"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ========================= FOOTER ========================= -->
+<!-- ========================================================= -->
+<!--                    VISITOR COUNT                          -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,25:071426,50:0F172A,75:111827,100:020617"/>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kailash0001&label=PROFILE+VIEWS&color=64748B&style=for-the-badge"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                        FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:F8FAFC,25:E2E8F0,50:CBD5E1,75:94A3B8,100:64748B"/>
+
+</div>

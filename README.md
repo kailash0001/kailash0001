@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=KAILASH&fontSize=100&fontAlign=50&fontAlignY=50&animation=twinkling&fontColor=F8FAFC&stroke=38BDF8&strokeWidth=2&color=0:020617,25:0F172A,50:1E293B,75:334155,100:475569"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=KAILASH&fontAlign=50&fontAlignY=42&fontSize=95&animation=fadeIn&fontColor=F8FAFC&desc=AI%20Engineer%20•%20RAG%20Architect%20•%20Open%20Source%20Builder&descAlign=50&descAlignY=62&descSize=20&color=0:0F172A,20:111827,40:1E293B,60:334155,80:475569,100:64748B"/>
 
 </div>
 ---
